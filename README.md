@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @r-deras from ***El Salvador***
+- 👀 Interested in collaborating and learning/applying analytics and data science
+- 🌱 Currently learning data warehousing and visualization tools, machine learning/AI and blockchain
+- 💞️ Analytics or IA projects
+- 📫 Reach me at rafael.deras@gmail.com
