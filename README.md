@@ -9,5 +9,5 @@
 
 # Reach Me:
 
-[LinkedIn](https://www.linkedin.com/in/rafael-deras-41667236/)
-[Twitter](https://www.twitter.com/mr_musica)
+- [LinkedIn](https://www.linkedin.com/in/rafael-deras-41667236/)
+- [Twitter](https://www.twitter.com/mr_musica)
