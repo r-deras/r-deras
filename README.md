@@ -10,4 +10,4 @@
 # Reach Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-deras-41667236/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.twitter.com/mr_musica)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white])](https://www.twitter.com/mr_musica)
