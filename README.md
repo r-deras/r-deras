@@ -7,6 +7,9 @@
 - 💞️ Projects in areas such as Analytics, Machine Learning and AI
 - 📫 Reach me at rafael.deras@gmail.com
 
+# Github Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=r-deras&theme=dark&background=000000)](https://git.io/streak-stats)
+
 # Reach Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-deras-41667236/)
