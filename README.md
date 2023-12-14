@@ -1,4 +1,4 @@
-*About Me:*
+# About Me:
 
 - 👋 Hi, I’m Rafael (@r-deras) from ***El Salvador***
 - 🔧 I work as a Data Analyst for an american youth sports & recreation software company
@@ -7,4 +7,7 @@
 - 💞️ Projects in areas such as Analytics, Machine Learning and AI
 - 📫 Reach me at rafael.deras@gmail.com
 
-'Socials'
+# Reach Me:
+
+[LinkedIn](https://www.linkedin.com/in/rafael-deras-41667236/)
+[Twitter](https://www.twitter.com/mr_musica)
